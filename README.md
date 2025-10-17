@@ -1,0 +1,2 @@
+# presi-journal
+trading journal
