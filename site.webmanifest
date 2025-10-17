@@ -1,0 +1,15 @@
+{
+  "name": "PR3SI ARCHIVE",
+  "short_name": "PR3SI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#222C37",
+  "theme_color": "#222C37",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ]
+}
